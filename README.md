@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Endistic-DEV/Endistic-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hi, we're Ender Studios. We're a team of teenagers that aspire to be future developers! We plan to bring unique Minecraft Server and Gaming experiences straight to your PC, for FREE!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 what
+
+🌱 I'm (Endistic) currently learning Java and C#.
+📫 You can reach out to us on Discord or E-Mail:
+
+Our discords:
+    Endistic - Endistic#3726
+    
+
